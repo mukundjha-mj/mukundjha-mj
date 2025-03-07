@@ -1,28 +1,99 @@
-<h1 align="center">Hi 👋, I'm Balmukund Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukundjha-mj&label=Profile%20views&color=0e75b6&style=flat" alt="mukundjha-mj" /> </p>
+<h1 align="center">Hi 👋, I'm Mukund Jha</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **React Js**
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://demo-myfirstportfolio.netlify.app/](https://demo-myfirstportfolio.netlify.app/)
+<br>
 
-- 💬 Ask me about **react, JavaScript**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mukundjha-mj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/mukundjha-mj?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mukundjha-mj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mukundjha-mj?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mukundjha-mj?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+</div>
 
-- 📫 How to reach me **mukundjha204@gmail.com**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mukundjha_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukundjha_m" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mukundjha-mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundjha-mj" height="30" width="40" /></a>
-</p>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🔭 I'm currently working on **[Your Current Project]**
+- 🌱 I'm currently learning **[Technologies you're learning]**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 👨‍💻 All of my projects are available at **[My Portfolio Website]**
+- 📫 How to reach me: **youremail@gmail.com**
+- ⚡ Fun fact: **[Interesting fact about yourself]**
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mukundjha_mj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mukundjha_mj" /></a></p><br><br>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukundjha-mj&show_icons=true&locale=en&layout=compact" alt="mukundjha-mj" /></p>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px></picture> Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukundjha-mj&show_icons=true&locale=en" alt="mukundjha-mj" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,mongodb,nextjs,tailwind,git,github" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,firebase,vscode,figma" />
+</div>
+
+<br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px></picture> GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukundjha-mj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mukund's GitHub stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundjha-mj&theme=tokyonight&hide_border=true&layout=compact" alt="Mukund's Top Languages" height="200px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukundjha-mj&theme=tokyonight&hide_border=true" alt="Mukund's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mukundjha-mj&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Mukund's GitHub Trophy" />
+</div>
+
+<br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width = 50px></picture> Featured Projects
+
+<div align="center">
+  <a href="https://github.com/mukundjha-mj/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukundjha-mj&repo=project-name&theme=tokyonight&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/mukundjha-mj/another-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mukundjha-mj&repo=another-project&theme=tokyonight&hide_border=true" alt="Project 2" />
+  </a>
+</div>
+
+<br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px></picture> Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukundjha-mj&custom_title=Mukund%20Jha's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" alt="Mukund's Activity Graph" />
+
+<br>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" />
+</h3>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
