@@ -78,7 +78,7 @@ I'm a Full-Stack Developer and current MCA student at Vellore Institute of Techn
 - **Backend Architecture:** Architected RESTful APIs using Node.js & Prisma ORM, implementing secure JWT authentication with refresh tokens and RBAC for Patients, Doctors, and Admins.
 - **Emergency Access & Performance:** Engineered QR-code-based emergency access and optimized database query strategies, significantly improving API response time under concurrent workloads.
 
-### 🚕 Microservices Uber Backend <a href="https://github.com/mukundjha-mj"><img align="right" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+### 🚕 Microservices Uber Backend <a href="https://github.com/mukundjha-mj/Microservices-Uber-Backend"><img align="right" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 > **Tech Stack:** *Node.js, Express.js, MongoDB, Microservices, JWT*  
 
 - **Architecture:** Built a scalable ride-hailing backend using a microservices architecture.
@@ -86,7 +86,7 @@ I'm a Full-Stack Developer and current MCA student at Vellore Institute of Techn
 - **Message Queues:** Designed real-time inter-service communication pipelines using message queues to ensure low latency.
 - **Optimization:** Applied database indexing and advanced query optimization, successfully reducing API response time by 35%.
 
-### 🧠 Second Brain – Knowledge Management App <a href="https://second-brain-frontend-six.vercel.app"><img align="right" src="https://img.shields.io/badge/live-demo-success.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a><a href="https://github.com/mukundjha-mj"><img align="right" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+### 🧠 Second Brain – Knowledge Management App <a href="https://second-brain-frontend-six.vercel.app"><img align="right" src="https://img.shields.io/badge/live-demo-success.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a><a href="https://github.com/mukundjha-mj/secondBrain"><img align="right" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 > **Tech Stack:** *React.js, Node.js, Express.js, MongoDB, Tailwind CSS*  
 
 - **Core Product:** Developed a productivity tool that enables users to securely store, organize, and search personal notes and documents.
